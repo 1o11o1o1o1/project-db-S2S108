@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "MS-CEINTL.vscode-language-pack-ja",
+    "esbenp.prettier-vscode",
+    "inferrinizzard.prettier-sql-vscode",
+    "cweijan.vscode-postgresql-client2",
+    "aaron-bond.better-comments",
+    "oderwat.indent-rainbow",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
